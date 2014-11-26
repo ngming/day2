@@ -4,8 +4,9 @@
 	<title>testing this</title>
 </head>
 <body>
-<header></header>
-
+<header>Ming is making this header 1</header>
+<p>Ming is testing git 1</p>
+<p>im making functions and stuff 1</p>
 <div>
 	Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
 	tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
