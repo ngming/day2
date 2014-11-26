@@ -32,10 +32,7 @@
 	proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 </div>
 
-<<<<<<< HEAD
-<footer>hahaha 2.11</footer>
-=======
+
 <footer>hahaha 2</footer>
->>>>>>> ming2
 </body>
 </html>
